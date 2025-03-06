@@ -71,13 +71,6 @@ This application leverages LangChain to:
 - Maintain context between summary, key points, and action items extraction
 - Provide a modular architecture for easy extension
 
-## 📸 Screenshots
-
-![App Interface](screenshots/app_interface.png)
-*Main application interface*
-
-![Action Items](screenshots/action_items.png)
-*Action items table*
 
 ## 📄 License
 
