@@ -1,0 +1,7 @@
+streamlit==1.32.0
+openai==0.28.1
+pandas==1.5.3  # Much more stable with newer Python versions
+python-dotenv==1.0.0
+numpy==1.24.3  # More stable with newer Python versions
+langchain>=0.0.267
+langchain_community>=0.0.10
